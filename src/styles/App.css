@@ -1,0 +1,21 @@
+.header {
+  background-image: url('../images/banner.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: #8cc092;
+  width: 100vw;
+  height: 29vh;
+
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  background-color: #2d3f2c;
+  
+}
+
